@@ -1,4 +1,8 @@
 html5
 =====
 
-HTML5 Templates
+My HTML5 Templates (german)
+
+=====
+
+Meine HTML5 Templates (deutsch)
