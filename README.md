@@ -1,4 +1,4 @@
 HTML5 (German)
 ==============
 
-Meine Web-Vorlagen :)
+Meine Web-Vorlagen
