@@ -1,4 +1,4 @@
-html5
-=====
+HTML5 (German)
+==============
 
-my web templates
+Meine Web-Vorlagen :)
